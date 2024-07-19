@@ -5,3 +5,6 @@ JK3MD5 is a program used to check if your JKA's assets, .exe's, etc have been mo
 This can be used to track down problems with corrupt files, experiments you did, etc.
 
 This program was made for Caelum in JKH's Secret Santa 2012. I asked for his permission to upload it and update it in the future, and he gave me it.
+
+
+https://jkhub.org/files/file/1438-jk3md5/
