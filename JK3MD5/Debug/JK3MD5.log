@@ -1,0 +1,22 @@
+﻿Build started 1/20/2014 9:53:54 PM.
+     1>Project "D:\Code\JK3MD5\JK3MD5\JK3MD5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\JK3MD5.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib FirstRun.cpp JK3MD5.cpp
+         FirstRun.cpp
+         JK3MD5.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\JK3MD5\Debug\JK3MD5.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\JK3MD5.About.resources /ASSEMBLYRESOURCE:Debug\JK3MD5.FirstRun.resources /ASSEMBLYRESOURCE:Debug\JK3MD5.Main.resources /ASSEMBLYRESOURCE:Debug\JK3MD5.Settings.resources /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Code\JK3MD5\Debug\JK3MD5.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\About.obj
+         Debug\AssemblyInfo.obj
+         Debug\FirstRun.obj
+         Debug\JK3MD5.obj
+         Debug\Settings.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         JK3MD5.vcxproj -> D:\Code\JK3MD5\Debug\JK3MD5.exe
+     1>Done Building Project "D:\Code\JK3MD5\JK3MD5\JK3MD5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
